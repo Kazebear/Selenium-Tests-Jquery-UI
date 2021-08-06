@@ -1,6 +1,6 @@
 from objects import *
 
 if __name__ == "__main__":
-    a = testings()
+    # a = testings()
     b = testings2()
-    c = testings3()
+    # c = testings3()
